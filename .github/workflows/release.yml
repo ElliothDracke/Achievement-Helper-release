@@ -1,0 +1,40 @@
+# Le robot des releases.
+#
+# Un tag « vX.Y.Z » pousse depuis le poste (par publier.ps1) declenche ce
+# workflow : il prend les fichiers commites dans versions/X.Y.Z (installeur
+# signe, signature, latest.json, notes) et cree la release qui les porte.
+# L'updater des installations lit ensuite latest.json de la derniere release.
+#
+# Le jeton utilise est celui que GitHub fabrique pour ce run : limite a ce
+# depot, au seul droit ci-dessous, detruit a la fin. Rien n'est signe ici —
+# la signature vient du poste, avec une cle qui n'est jamais sur GitHub.
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Creer la release avec les fichiers de la version
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -eu
+          version="${GITHUB_REF_NAME#v}"
+          dossier="versions/$version"
+          test -f "$dossier/latest.json" || { echo "pas de $dossier/latest.json" >&2; exit 1; }
+          notes="$dossier/NOTES.md"
+          test -f "$notes" || echo "Achievements Helper $version" > "$notes"
+          gh release create "$GITHUB_REF_NAME" \
+            "$dossier"/*-setup.exe "$dossier"/*-setup.exe.sig "$dossier/latest.json" \
+            --title "Achievements Helper $version" \
+            --notes-file "$notes"
