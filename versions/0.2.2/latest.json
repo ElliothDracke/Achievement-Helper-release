@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVURwT29qMTJlTTM2dmRJNkdCUk0zejE5NFhhRTgwTTUzTmk5NmhMZVBObHpIelRQdnhrM0FWY3p1WGhucVBhZnh0cVlZS3Boa3BZTjhyVzA4YXZwQms2NUZaZXU3dVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzE5OTU2CWZpbGU6QWNoaWV2ZW1lbnRzIEhlbHBlcl8wLjIuMl94NjQtc2V0dXAuZXhlCkx2VWNqdW5ubzZ6Lzd4WGtQeFBBZlhEV2gvSkVSSk0vZnhpZ2g1L3Jmdm1vWFpLQWVoTm9wRmlmM2k5WUpMMjRaaDlKcXJVaXNyMnIrMUNPNHd1TkFBPT0K",
+                                             "url":  "https://github.com/ElliothDracke/Achievement-Helper-release/releases/download/v0.2.2/Achievements.Helper_0.2.2_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-09-13T17:19:17Z",
+    "version":  "0.2.2",
+    "notes":  "Silksong : les succes se lisent dans la sauvegarde (39 sur 52), points de restauration compris. Correctif : la fiche plantait quand un succes s appelle « constructor ». Carte du Journal plus lisible."
+}
