@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVURwT29qMTJlTStvQTg4N0pkTUxoYkhRWjZyM1d5dUUxeWxqQ3ZydTB1NDhrTXRJb1c1aHZMOURNUngvbUFFUVgzNzZLMWdjc0JEeVd3OVZXY0ZpZ0JDNUR2U0xjcEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzE4MTIxCWZpbGU6QWNoaWV2ZW1lbnRzIEhlbHBlcl8wLjIuMV94NjQtc2V0dXAuZXhlClNBZEU2Ylk2MEhwc3A0NS9SUVhRUFE0Z3V5NkZSaDhTK1NOMEFraVZ1T01kZElqdHFnTXB4Nk9wWVlmTGtVbkNlRzh0dVpGUG0xR1BkbE5ZN0xVakN3PT0K",
+                                             "url":  "https://github.com/ElliothDracke/Achievement-Helper-release/releases/download/v0.2.1/Achievements.Helper_0.2.1_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-09-13T16:52:29Z",
+    "version":  "0.2.1",
+    "notes":  "Correctif : la fiche d\u0027un jeu plantait quand un succes s\u0027appelle « constructor ». Carte du Journal plus lisible."
+}
