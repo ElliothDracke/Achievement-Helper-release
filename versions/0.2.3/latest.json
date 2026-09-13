@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVURwT29qMTJlTXd5OWQvOVlZQmh6TEZycFZkTUNpZExCcWdvWEtMYk91aGNHeXdLLzVpNVNoSTV5TWp0bGlSMGExQWVNZXVsRkRuMDFtUHZad3Fyb3hCTmUzZGl6U0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzIwNzk1CWZpbGU6QWNoaWV2ZW1lbnRzIEhlbHBlcl8wLjIuM194NjQtc2V0dXAuZXhlCnl2MWRBV1ZZTHBpb2kzZ1h1Q3JETlBjSUY4UEg1bVF6WEE1R21WVHhKbmRFYTlZVXNIT1dTalVDN3E1aGlJOXRWK3ZocEg1NjV6eWhGUkZ1S1dvdUNnPT0K",
+                                             "url":  "https://github.com/ElliothDracke/Achievement-Helper-release/releases/download/v0.2.3/Achievements.Helper_0.2.3_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-09-13T17:33:16Z",
+    "version":  "0.2.3",
+    "notes":  "Silksong : le jeu est reconnu a son dossier et ses succes se lisent dans la sauvegarde meme sans cle API (catalogue embarque). La synchro rapide re-verifie les jeux notes sans succes quand on sait lire leur sauvegarde."
+}

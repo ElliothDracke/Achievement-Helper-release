@@ -1,0 +1,1 @@
+Silksong : le jeu est reconnu a son dossier et ses succes se lisent dans la sauvegarde meme sans cle API (catalogue embarque). La synchro rapide re-verifie les jeux notes sans succes quand on sait lire leur sauvegarde.
