@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVURwT29qMTJlTXhzNHJZaTh5akhNM3ZJdjRCcG11KzJiSGNGVXRQcENZL1VqUlZGUkdkYlloWEF5aVBseUF5cGVXUW1MZ291d1dpcnNHamRKYTVLQW5XL3hyeUZZeXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Nzc4OTQ5CWZpbGU6QWNoaWV2ZW1lbnRzIEhlbHBlcl8wLjIuNF94NjQtc2V0dXAuZXhlCm8vS1QrbitzSnlPVmYweUJiWW44cVFrbTF3c2xNaDRaclBGZ0FaODNyS2NNcmpRbDdlWlFPWEVzSUlZS2M4bXA5YWw4RE43L29kYmdzbXZYNng4bkJRPT0K",
+                                             "url":  "https://github.com/ElliothDracke/Achievement-Helper-release/releases/download/v0.2.4/Achievements.Helper_0.2.4_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-09-19T00:52:51Z",
+    "version":  "0.2.4",
+    "notes":  "Achievements Helper 0.2.4\n\n- Clip vidéo du déblocage : pendant une partie, la fenêtre du jeu est gardée en mémoire les dernières secondes (encodée par la carte graphique, ~6 % d\u0027un cœur) ; quand un succès tombe, le clip est écrit à côté des captures d\u0027écran. Réglages › Captures : rareté, secondes avant/après, cadence 30/60, taille 1080p/720p, qualité Légère/Normale/Haute. Éteint d\u0027office.\n- Sur la plaque d\u0027un succès : « Replay » et « Image » ouvrent le clip et la capture du déblocage dans l\u0027application.\n- Lanceurs Battle.net et GOG détectés (catalogue Steam à cocher à la main) ; jeux en double masqués une fois, puce « 2 copies » ; analyse des dossiers à la vraie racine (Unity, Unreal, GameMaker).\n- Journal : « Chez tes amis » (ce qu\u0027ils ont pris ces jours-ci, en option) ; face-à-face avec un ami sur la fiche (en option).\n- Jeux Steam vus par leur progression locale même si l\u0027API ne les liste plus (comptes fusionnés) ; Overwatch porte son vrai nom.\n- Bandeau de fin de session ; le Journal se redessine quand une session commence.\n- Muet quand Steam sonne déjà, muet en jeu ; un jeu déjà lancé est suivi au démarrage.\n- Correctifs : interrupteurs des réglages cliquables à la souris, plaques dorées vides au défilement rapide, salve de faux déblocages après réécriture du schéma d\u0027un jeu, clip qui mettait plusieurs secondes à s\u0027ouvrir."
+}
