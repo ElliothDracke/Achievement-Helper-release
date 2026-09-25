@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVURwT29qMTJlTTdkeDFjNGF5WCs4RkRqWWg1djhQdGNaUklxSjNvWW9WQ09hOThKMnYrd0VzWHI2M3NkOVRFNW5QcXptZlFGVEdEV3FCbEc5Y3VQOHY4TU10NHVDaVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzMxMzM3CWZpbGU6QWNoaWV2ZW1lbnRzIEhlbHBlcl8wLjIuOF94NjQtc2V0dXAuZXhlClczaVBPQm9qSHBzancxTnlIekdPdUJXdFNYQkpqUjlRbkVERXJKUlp0b1FHdi9CVmNoTFQvQ0p5NFlHVndVS05zSWRBckcxZFdiR0FGWWM2dC9FakFRPT0K",
+                                             "url":  "https://github.com/ElliothDracke/Achievement-Helper-release/releases/download/v0.2.8/Achievements.Helper_0.2.8_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-09-25T10:25:21Z",
+    "version":  "0.2.8",
+    "notes":  "Achievements Helper 0.2.8\r\n\r\nLe Journal\r\n- Les chiffres dans un cadre, la carte du moment plus lisible (titre en bas a gauche, anneau dore), les lignes de jeux plus serrees avec le logo de leur plateforme et une fleche.\r\n- Le bouton de synchronisation plus propre : « Synchro… », une barre fine, « Annuler » en lien.\r\n\r\nLa Vitrine\r\n- Le calendrier du mois : chaque jour de chasse prend l\u0027image du jeu du jour ; un clic montre ses succes.\r\n- Tes records : le plus rare, la plus grosse journee, le tout premier, et le prochain cap.\r\n\r\nObjectifs\r\n- Le defi du mois : cinq succes tires dans tes jeux installes, du plus facile au legendaire.\r\n- Les ratables a surveiller, les jeux proches du 100 %, les succes les plus faciles qui restent.\r\n\r\nLa fiche\r\n- Le Plan du 100 % (bouton « Plan ») quand un guide donne une feuille de route par etapes : l\u0027etape ou tu en es, les succes de chaque etape, le texte dans le volet Guide.\r\n\r\nPremier lancement\r\n- L\u0027accueil en cinq etapes : la cle Steam, le compte, tes autres jeux, les touches a connaitre en jouant, la premiere synchro."
+}
