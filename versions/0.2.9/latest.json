@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVURwT29qMTJlTTFtb3hTK2dKVHFPVmtKRTRwb0N6ZzZTUGNZdVZPQ29LN2c3ZWZ2ZHJCVXI4MVVpVm1nYk9GVFhOOGw5cHNLSWNGVzhsTHl1N1hXUGtrNmp5RkQ2QUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzYwODY0CWZpbGU6QWNoaWV2ZW1lbnRzIEhlbHBlcl8wLjIuOV94NjQtc2V0dXAuZXhlClRXYjBHU2JGR0dCcG91THhLZ2tnWHZMWVZ2VWl5aXBva1VIRUhyS1lUUTBXMUNvZHZJQW9zRXR5eXZUVWlpR1hVNlVrMDNvMmlPb0N0U0hzUG9MTEJnPT0K",
+                                             "url":  "https://github.com/ElliothDracke/Achievement-Helper-release/releases/download/v0.2.9/Achievements.Helper_0.2.9_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-09-25T18:36:14Z",
+    "version":  "0.2.9",
+    "notes":  "Achievements Helper 0.2.9\r\n\r\nCorrectifs\r\n- Les icones des succes recents s\u0027affichent de nouveau (Steam a change l\u0027adresse de ses images).\r\n- Relire les guides d\u0027un jeu ne fait plus disparaitre ce qu\u0027on avait deja lu quand un site ne repond pas (reperes DLC, ratables).\r\n- Sans cle Steam (jeux Battle.net, Epic, GOG), les succes retrouvent leur nom au lieu d\u0027un identifiant du genre 0x0E60000000000190."
+}
