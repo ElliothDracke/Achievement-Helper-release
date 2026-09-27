@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVURwT29qMTJlTSt6NTBQMURqaXlEcFQzWk16bTQ4Qlo3TlBuNHFBdTdmbmhHQm5aMnNDU3ArdDNKNjhOd0VYT2V5a1JrRDhPZGlxaVdJR0ZPTVZmSStKRkQrT0FNS2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTIxMTMyCWZpbGU6QWNoaWV2ZW1lbnRzIEhlbHBlcl8wLjMuMF94NjQtc2V0dXAuZXhlClRlekFPVjdFTGxGRWV5UUF5QWRnYnVScFZKU1U4blFuY3JEdWNUeWlnNHR2SGZkU2dORUNTNjdubDJsUWx5N2FJcEk0OXRmcTQ4TTZCNk8vUTlQbkRnPT0K",
+                                             "url":  "https://github.com/ElliothDracke/Achievement-Helper-release/releases/download/v0.3.0/Achievements.Helper_0.3.0_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-09-27T14:59:32Z",
+    "version":  "0.3.0",
+    "notes":  "Achievements Helper 0.3.0\n\nNouveautes\n- Xbox : connexion au compte Microsoft (fenetre officielle de Microsoft), jeux et succes Xbox dans la bibliotheque.\n- Amis en ligne : nouvelle fenetre, onglets Steam et Xbox, etat a la Discord, jeu en cours et progression de l\u0027ami sur tes jeux.\n- La cloche du Journal : ce qu\u0027il reste a faire (ratables du jeu en cours, doublons, jeux inconnus...) et l\u0027activite recente.\n- Clips avec le son du jeu seul, et le micro en option.\n- Plaques de succes plus lisibles : rarete, ratable, DLC, categories et petite note.\n- Succes hors Steam : Razor1911 (Red Dead Redemption d\u0027ElAmigos, entre autres), RLD!, RLE, TENOKE, 3DM, ALI213, SKIDROW, CreamAPI et les sauvegardes locales de Goldberg sont reconnus.\n- Jeux : filtre par plateforme.\n\nCorrectifs\n- Overlay : Ctrl+Maj+O marche aussi dans les jeux qui bloquent les raccourcis ; cadenas et fermeture dans le menu de l\u0027icone pres de l\u0027horloge ; la croix le ferme pour toute la partie au lieu de le laisser revenir.\n- La partie en cours survit a un redemarrage de l\u0027application.\n- Histoire finie : un succes de fin suffit.\n- Noms de DLC corriges.\n- Securite : aucune cle ni aucun jeton dans les messages d\u0027erreur ou le journal."
+}
